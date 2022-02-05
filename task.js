@@ -504,3 +504,4 @@ const oabj = {
   
   let lenaaa = oabj.sayName.call(pirog);
   console.log();
+  console.log(pirog)
